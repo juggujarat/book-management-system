@@ -1,6 +1,6 @@
-package book_management._system.repository;
+package com.bms.app.repository;
 
-import book_management._system.entity.Book;
+import com.bms.app.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

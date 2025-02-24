@@ -12,7 +12,7 @@
 	<artifactId>book-management-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>book-management-system</name>
-	<description>The Credit Application provides a seamless way to manage books with full CRUD functionality. Users can add new books, update existing details, retrieve book information, and delete records as needed.</description>
+	<description>Demo App to manage the Books CRUD Application</description>
 	<url/>
 	<licenses>
 		<license/>
