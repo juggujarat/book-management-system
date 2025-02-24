@@ -1,4 +1,4 @@
-package book_management._system.dto;
+package com.bms.app.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

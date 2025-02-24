@@ -1,4 +1,4 @@
-package book_management._system;
+package com.bms.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
