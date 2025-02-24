@@ -29,7 +29,7 @@ Maven
 PostgreSQL
 Steps to Run Backend
 Clone the repository:
-git clone <repository-url>
+git clone https://github.com/juggujarat/book-management-system.git
 cd backend
 
 Setup PostgreSQL Database:
